@@ -28,5 +28,7 @@
         "psr-4": {
             "Modules\\Blog\\": ""
         }
-    }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
 }
