@@ -23,5 +23,13 @@
         "psr-4": {
             "Modules\\Blog\\": ""
         }
+    },
+    "require": {
+        "joshbrw/laravel-module-installer": "^2.0"
+    },
+    "config": {
+        "allow-plugins": {
+            "joshbrw/laravel-module-installer": true
+        }
     }
 }
