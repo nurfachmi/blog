@@ -13,8 +13,7 @@
         }
     ],
     "require": {
-        "php": "^8.1",
-        "joshbrw/laravel-module-installer": "^2.0"
+        "php": "^8.1"
     },
     "extra": {
         "laravel": {
