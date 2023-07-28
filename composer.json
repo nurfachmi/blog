@@ -1,5 +1,5 @@
 {
-    "name": "nurfachmi/blog-module",
+    "name": "nurfachmi/blog",
     "type": "laravel-module",
     "description": "Testing module",
     "homepage": "https://github.com/nurfachmi/blog-module",
@@ -12,14 +12,10 @@
             "role": "Developer"
         }
     ],
-    "require": {
-        "php": "^8.1"
-    },
     "extra": {
         "laravel": {
             "providers": [],
             "aliases": {
-
             }
         }
     },
@@ -27,7 +23,5 @@
         "psr-4": {
             "Modules\\Blog\\": ""
         }
-    },
-    "minimum-stability": "stable",
-    "prefer-stable": true
+    }
 }
